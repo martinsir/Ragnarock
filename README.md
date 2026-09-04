@@ -47,6 +47,6 @@ This was our first larger project during the Computer Science education and was 
 ## Authors
 
 Developed as a school team project.
--Samet
+
 -Victoria
 -Martin
